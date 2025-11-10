@@ -1,9 +1,3 @@
-Perfect — you have **final model results**, so now I can give you a **complete polished README.md** ready for GitHub.
-
----
-
-## ✅ **Copy-Paste This as your README.md**
-
 ```markdown
 # Legal Clause Semantic Similarity (Assignment 2 – Deep Learning)
 
