@@ -149,11 +149,6 @@ dataset/                    # Legal clause dataset (not included in repo upload)
 ## 👨‍💻 Author
 
 **Name:** Amman Faisal  
-**FAST-ID:** *Add your ID here*  
-**Course:** CS-452 – Deep Learning  
-**Instructor(s):** Mahnoor Tariq & Dr. Qurat-ul-Ain  
-**Semester:** Fall 2025  
-
 ---
 
 ## ✅ Submission Checklist
